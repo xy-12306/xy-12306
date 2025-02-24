@@ -7,7 +7,7 @@
    - **后端**: Node.js, Python
 
    ## 🌟 精选项目
-   - [项目 A](xy12306-01.github.io): 一个基于 React 的 Web 应用。
+   - [项目 A](https://xy12306-01.github.io/): 一个基于 React 的 Web 应用。
    - [项目 B](链接): 使用 Python 的数据分析工具。
 
    ## 📫 联系我
