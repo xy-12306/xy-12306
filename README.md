@@ -12,4 +12,4 @@
 
    ## 📫 联系我
    - Email: 1745818515@qq.com
-   - Twitter: [@如风]( https://www.feishu.cn/invitation/page/add_contact/?token=093ue1bb-a775-4ec4-bb54-5359370c177d&amp;unique_id=Soq-NlmZE9hy6VG-BzpSnw==)
+   - 飞书: [@如风]( https://www.feishu.cn/invitation/page/add_contact/?token=093ue1bb-a775-4ec4-bb54-5359370c177d&amp;unique_id=Soq-NlmZE9hy6VG-BzpSnw==)
