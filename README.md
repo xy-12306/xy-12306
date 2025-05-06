@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xy12306-01.欢迎来到我的github.
+- 👋 Hi, I’m @xy12306-01.欢迎来到我的Github.
 - 📫 [我的掘金社区](https://juejin.cn/user/2232425500384467/posts)
 
 
@@ -7,8 +7,8 @@
    - **后端**: Node.js, Python，MySQL
 
    ## 🌟 精选项目
-   - [项目 A](https://xy12306-01.github.io/): 一个基于HTML，Css,Js的 Web 应用。
-   - [项目 B](https://github.com/xy12306-01/Docker-installation): 使用 Python 制作的Docker自动化安装的脚本。
+   - [我的项目笔记展示](https://xy12306.netlify.app): 一个基于HTML，Css,Js的 Web 应用。
+   - [Docker自动化安装的脚本](https://github.com/xy12306-01/Docker-installation): 使用 Python 制作的Docker自动化安装的脚本。
    - 
    ## 📫 联系我
    - Email: 1745818515@qq.com
