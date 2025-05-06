@@ -6,8 +6,9 @@
    - **前端**: React, Vue, TypeScript
    - **后端**: Node.js, Python，MySQL
 
-   ## 🌟 精选项目
+   ## 🌟 自建网页+项目
    - [我的项目笔记展示](https://xy12306.netlify.app): 一个基于HTML，Css,Js的 Web 应用。
+   - [我的笔记合集](https://xy-12306.netlify.app): 由 Hexo 驱动 & 主题 Keep v4.2.5
    - [Docker自动化安装的脚本](https://github.com/xy12306-01/Docker-installation): 使用 Python 制作的Docker自动化安装的脚本。
      
    ## 📫 联系我
